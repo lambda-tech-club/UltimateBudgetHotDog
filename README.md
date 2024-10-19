@@ -7,7 +7,7 @@
 3. 味
 
 ### Step 0: 調理に入る前に
-1. 使い捨て手袋を装着する <br> <img height="160px" src="./images/IMG_2248.jpeg">
+1. 使い捨て手袋を装着する <br> <img height="160px" src="./images/glove.jpg"> <img height="160px" src="./images/IMG_2248.jpeg">
 2. アルコールを両手にかける <br> <img src="./images/IMG_2249.jpeg" height="160px">
 3. 手袋全体がアルコールで湿るように手をこする <br> <img src="./images/IMG_2250.jpeg" height="160px">
 4. アルコールが蒸発するまで待つ
@@ -28,7 +28,7 @@
 2. 焼き目をつけるために、切り目が大きく広げる <br> <img src="./images/IMG_2259.jpeg" height="160px"> <img height="160px" src="./images/IMG_2260.jpeg">
 2. パンの切断面が下に向くようにして鉄板に乗せて焼き目をつける(約15秒) <br> <img src="./images/tongs.jpg" height="160px"> <img src="./images/plate.jpg" height="160px"> <img src="./images/IMG_2261.jpeg" height="160px">
 3. 裏返して約15秒焼く <br> <img src="./images/IMG_2266.jpeg" height="160px">
-4. 焼かれたパンを容器に移動させる <br> <img src="./images/IMG_2270.jpeg" height="160px">
+4. 焼かれたパンを容器に移動させる <br> <img height="160px" src="./images/container.jpg"> <img src="./images/IMG_2270.jpeg" height="160px">
 4. パンの切断面の右端、左端にレリッシュをドロップする
    1. **注意: 入れすぎると酸っぱくなる** <br> <img src="./images/IMG_2275.jpeg" height="160px"> <img src="./images/IMG_2271.jpeg" height="160px"> <br>  <img src="./images/IMG_2272.jpeg" height="160px">  <img src="./images/IMG_2274.jpeg" height="160px">
 5. 加熱されたソーセージを取り、パンの切断面に乗せる
