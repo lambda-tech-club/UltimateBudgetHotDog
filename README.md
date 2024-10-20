@@ -16,7 +16,7 @@
 <img src="./images/FIG_1.png" height="320px"> <br> 
 <img src="./images/FIG_2.png" height="320px"> <br> 
 1. ソーセージを用意する <br> <img src="./images/IMG_2251.jpeg" height="160px"> <img height="160px" src="./images/IMG_2252.jpeg">
-2. ソーセージを対角線に合わせてソーセージカッターで切る <br> <img src="./images/IMG_2253.jpeg" height="160px"> <img height="160px" src="./images/IMG_2254.jpeg">　<br>  <img height="160px" src="./images/IMG_2255.jpeg"> <img src="./images/IMG_2256.jpeg" height="160px">
+2. ソーセージをソーセージの長径に対してπ/6の角度をつけて、ソーセージの中心を通るようなパスで切る <br> <img src="./images/IMG_2253.jpeg" height="160px"> <img height="160px" src="./images/IMG_2254.jpeg">　<br>  <img height="160px" src="./images/IMG_2255.jpeg"> <img src="./images/IMG_2256.jpeg" height="160px">
 3. 鉄板の温度を確認する
    1. 120 度以下 -> **120 度超える**まで待つ
    2. 120 度以上 -> 次のステップに進む
