@@ -14,14 +14,16 @@
 
 ### Step 1: ソーセージの調理
 1. ソーセージを用意する <br> <img src="./images/IMG_2251.jpeg" height="160px"> <img height="160px" src="./images/IMG_2252.jpeg">
-2. ソーセージを対角線に合わせてソーセージカッターで切る <br> <img src="./images/IMG_2253.jpeg" height="160px"> <img height="160px" src="./images/IMG_2254.jpeg">　<br>  <img height="160px" src="./images/IMG_2255.jpeg"> <img src="./images/IMG_2256.jpeg" height="160px">
+2. ソーセージを対角線に合わせてソーセージカッターで切る <br> <img src="./images/FIG_1.png" height="320px"> <br> <img src="./images/IMG_2253.jpeg" height="160px"> <img height="160px" src="./images/IMG_2254.jpeg">　<br>  <img height="160px" src="./images/IMG_2255.jpeg"> <img src="./images/IMG_2256.jpeg" height="160px">
 3. 鉄板の温度を確認する
-   1. 75 度以下 -> **75 度超える**まで待つ
-   2. 75 度以上 -> 次のステップに進む
+   1. 120 度以下 -> **120 度超える**まで待つ
+   2. 120 度以上 -> 次のステップに進む
    3. 160 度以上 -> 火を弱める
-4. ソーセージを鉄板に乗せて焼く <br> <img src="./images/tongs.jpg" height="160px"> <img src="./images/plate.jpg" height="160px"> <img src="./images/IMG_2262.jpeg" height="160px">
-5. 裏返しながら**1 分以上**焼く <br> <img src="./images/IMG_2263.jpeg" height="160px"> <img src="./images/IMG_2264.jpeg" height="160px">  <img src="./images/IMG_2265.jpeg" height="160px">
-6. **1 分以上**焼かれたソーセージを鉄板の温度の低い場所に移動させる <br> <img src="./images/IMG_2269.jpeg" height="160px">
+4. ソーセージを鉄板に乗せて焼く <br> <img src="./images/FIG_2.png" height="320px"> <br> <img src="./images/tongs.jpg" height="160px"> <img src="./images/plate.jpg" height="160px"> <img src="./images/IMG_2262.jpeg" height="160px">
+5. 軽く焦げ目が付くまで定期的に回転させながら焼く <br> <img src="./images/IMG_2263.jpeg" height="160px"> <img src="./images/IMG_2264.jpeg" height="160px">  <img src="./images/IMG_2265.jpeg" height="160px">
+   1. 表面温度が必ず**摂氏75度1分**を満たすようにする（神戸西部衛生監督事務所による指導）
+   2. 2分を目安に温めれば十分だが激しく焦げ目が付くようであれば早めに加熱をやめる
+6. 焦げ目が付いたらソーセージを鉄板の温度が低い場所もしくはアルミバットに移動する <br> <img src="./images/IMG_2269.jpeg" height="160px">
 
 ### Step 2: パンの調理および盛り付け
 1. パンを用意する <br> <img src="./images/IMG_2257.jpeg" height="160px"> <img height="160px" src="./images/IMG_2258.jpeg">
