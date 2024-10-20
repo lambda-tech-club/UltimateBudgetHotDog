@@ -1,16 +1,11 @@
 # 【ケチ】限界節約ホットドッグ
-### Step -1: 心構え
-調理工程は可能な限り、お客様から見えないようにする
-#### 料理の優先順位
-1. 衛生
-2. 見た目
-3. 味
 
 ### Step 0: 調理に入る前に
-1. 使い捨て手袋を装着する <br> <img height="160px" src="./images/glove.jpg"> <img height="160px" src="./images/IMG_2248.jpeg">
-2. アルコールを両手にかける <br> <img src="./images/IMG_2249.jpeg" height="160px">
-3. 手袋全体がアルコールで湿るように手をこする <br> <img src="./images/IMG_2250.jpeg" height="160px">
-4. アルコールが蒸発するまで待つ
+1. ゴム手袋を装着する
+   1. 食品に直接触れる際は**必ず手袋を着用する** <br> <img height="160px" src="./images/glove.jpg"> <img height="160px" src="./images/IMG_2248.jpeg">
+2. 消毒液を手袋の上にスプレーする <br> <img src="./images/IMG_2249.jpeg" height="160px">
+3. 手袋全体に消毒液が行き渡るように手をこする <br> <img src="./images/IMG_2250.jpeg" height="160px">
+4. 消毒液が蒸発するまで待つ
 
 ### Step 1: ソーセージの調理
 <img src="./images/FIG_1.png" height="320px"> <br> 
