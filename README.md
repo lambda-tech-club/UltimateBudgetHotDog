@@ -39,7 +39,7 @@
    1. **皮側を上に向ける**
    2. ソーセージがパンの端から5mm程度**はみ出てる**ように見えるように <br> <img src="./images/IMG_2276.jpeg" height="160px">
 6. フライドオニオンを小さじ1杯、スリット面の上に振りかける <br> <img src="./images/IMG_2277.jpeg" height="160px"> <img src="./images/IMG_2278.jpeg" height="160px"> <img src="./images/IMG_2279.jpeg" height="160px">
-7. ケチャップをスリット面の上に周期1/3〜1/4、振幅はスリット面の幅となるような正弦波でかけて、完成 <br> <img src="./images/IMG_2280.jpeg" height="160px"> <img src="./images/IMG_2281.jpeg" height="160px">
+7. ケチャップをスリット面の上に周期1/3〜1/4、振幅はスリット幅の半分（p-pがスリット幅）となるような正弦波でかけて、完成 <br> <img src="./images/IMG_2280.jpeg" height="160px"> <img src="./images/IMG_2281.jpeg" height="160px">
 8. お客様から見えない、邪魔にならない、衛生的な場所に移動させる
 
 ### Step 3: 受け渡し
