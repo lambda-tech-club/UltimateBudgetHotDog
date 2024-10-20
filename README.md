@@ -28,18 +28,23 @@
 6. 焦げ目が付いたらソーセージを鉄板の温度が低い場所もしくはアルミバットに移動する <br> <img src="./images/IMG_2269.jpeg" height="160px">
 
 ### Step 2: パンの調理および盛り付け
+<img src="./images/FIG_3.png" height="320px"> <br> 
+<img src="./images/FIG_4.png" height="320px"> <br> 
 1. パンを用意する <br> <img src="./images/IMG_2257.jpeg" height="160px"> <img height="160px" src="./images/IMG_2258.jpeg">
-2. 焼き目をつけるために、切り目が大きく広げる <br> <img src="./images/IMG_2259.jpeg" height="160px"> <img height="160px" src="./images/IMG_2260.jpeg">
-2. パンの切断面が下に向くようにして鉄板に乗せて焼き目をつける(約15秒) <br> <img src="./images/tongs.jpg" height="160px"> <img src="./images/plate.jpg" height="160px"> <img src="./images/IMG_2261.jpeg" height="160px">
-3. 裏返して約15秒焼く <br> <img src="./images/IMG_2266.jpeg" height="160px">
+2. 焼き目をつけるためにスリット面を大きく広げる <br> <img src="./images/IMG_2259.jpeg" height="160px"> <img height="160px" src="./images/IMG_2260.jpeg">
+2. パンのスリット面が下に向くようにして鉄板に乗せて焼き目をつける(30秒程度) <br> <img src="./images/tongs.jpg" height="160px"> <img src="./images/plate.jpg" height="160px"> <img src="./images/IMG_2261.jpeg" height="160px">
+3. 底面を下にして焼き目をつける(30秒程度) <br> <img src="./images/IMG_2266.jpeg" height="160px">
 4. 焼かれたパンを容器に移動させる <br> <img height="160px" src="./images/container.jpg"> <img src="./images/IMG_2270.jpeg" height="160px">
 4. パンの切断面の右端、左端にレリッシュをドロップする
    1. **注意: 入れすぎると酸っぱくなる** <br> <img src="./images/IMG_2275.jpeg" height="160px"> <img src="./images/IMG_2271.jpeg" height="160px"> <br>  <img src="./images/IMG_2272.jpeg" height="160px">  <img src="./images/IMG_2274.jpeg" height="160px">
+   2. 衛生上の観点からスプーンなどは使わずボトルから直接ドロップする
+   3. 直径25mmの円形に2箇所で合計5mL程度の量になるように調節する
+   4. **回転を重視するため厳密に測りすぎる必要はない**
 5. 加熱されたソーセージを取り、パンの切断面に乗せる
    1. **皮側を上に向ける**
-   2. ソーセージがパンから**はみ出てる**ように見えるように <br> <img src="./images/IMG_2276.jpeg" height="160px">
-6. フライドオニオンを小さじ1杯、容器の端から端まで振り下ろす <br> <img src="./images/IMG_2277.jpeg" height="160px"> <img src="./images/IMG_2278.jpeg" height="160px"> <img src="./images/IMG_2279.jpeg" height="160px">
-7. ケチャップを容器の端から端まで、3個分の正弦波のようにかけて、完成 <br> <img src="./images/IMG_2280.jpeg" height="160px"> <img src="./images/IMG_2281.jpeg" height="160px">
+   2. ソーセージがパンの端から5mm程度**はみ出てる**ように見えるように <br> <img src="./images/IMG_2276.jpeg" height="160px">
+6. フライドオニオンを小さじ1杯、スリット面の上に振りかける <br> <img src="./images/IMG_2277.jpeg" height="160px"> <img src="./images/IMG_2278.jpeg" height="160px"> <img src="./images/IMG_2279.jpeg" height="160px">
+7. ケチャップをスリット面の上に周期1/3〜1/4、振幅はスリット面の幅となるような正弦波でかけて、完成 <br> <img src="./images/IMG_2280.jpeg" height="160px"> <img src="./images/IMG_2281.jpeg" height="160px">
 8. お客様から見えない、邪魔にならない、衛生的な場所に移動させる
 
 ### Step 3: 受け渡し
